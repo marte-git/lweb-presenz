@@ -11,7 +11,8 @@ void rivolta(char *);
 
 
 main(){
- int i;
+ int i, j;   
+          /* aggiunta j */
  char *stringhe[N],       /* array di N stringhe */
        buffer[MAXLUNG+1]; /* buffer per la lettura delle stringhe */
 
